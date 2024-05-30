@@ -203,3 +203,10 @@ export class AuthGuard implements CanActivate {
 }
 ```
 In this example, the AuthGuard ensures that only authenticated users can access protected routes.
+
+### IMPEMENTATION IN ANGULAR PROJECT: 
+
+[Project Link - Stackblitz - Angular Safety Measures](https://stackblitz.com/edit/stackblitz-starters-xayn7l)
+
+Tips we mentioned above can be found implemented in src folder in project.
+
